@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    padding-top:56px ;
+}
+.navbg{
+    background-color: black;
+    
+}
+.heading{
+    font-size: 150px;
+    font-weight: 700;
+    font-family: "Anton", sans-serif;
+   
+}
+.hover:hover{
+    cursor: pointer;
+}
+.head-color{
+    color: rgba(73, 72, 72, 0.705);
+}
+.size{
+    font-size: 30px;
+    margin-bottom: 15px;
+    
+}
+.bg-grey{
+    background-color: rgba(216, 216, 216, 0.623);
+}
+.text-deco{
+    text-decoration: line-through;
+}
+.bg-img{
+   
+    height: 90vh;
+    background: url(hero_bg_1.jpg);
+}
+.deco{
+ text-decoration: none;
+ color: black;
+ 
+}
+.but{
+   height: 50px;
+   
+}
+.new{
+    background: url(/banner.png);
+    height: 90vh;
+    width: 90vw;
+}
+.but{
+    width: 180px;
+    height: 50px;
+    
+}
